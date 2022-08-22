@@ -1,6 +1,6 @@
 
 ### Requirements
-#### packages
+#### python packages
 1. moviepy
 2. os
 3. psycopg2
